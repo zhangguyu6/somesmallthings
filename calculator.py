@@ -1,3 +1,8 @@
+'''
+一个自解析字符串的计算器
+'''
+
+
 def isnum(word):
     return word in '0123456789'
 
